@@ -13,4 +13,4 @@ num_4 = int(input("Quarta nota: "))
 media = (num_1 + num_2 + num_3 + num_4) / 4
 
 # informando as notas e a média.
-print(f"A média das seguintes notas : {num_1}, {num_2}, {num_3}, {num_4}é {media}")
+print(f"A média das seguintes notas : {num_1}, {num_2}, {num_3}, {num_4}é {media:.2f}")

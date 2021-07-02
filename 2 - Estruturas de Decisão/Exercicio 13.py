@@ -12,15 +12,42 @@ e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
 
 """
 notas = []
-aproveitamento = {}
+aproveitamento = ''
+aluno = {"nota": [], "aproveitamento": '', "media": 0, "Conceito": ''}
 
 notas.append(int(input("Informe a primeira nota: ")))
 notas.append(int(input("Informe a segunda nota: ")))
 
+aluno["notas"] = notas
+
 media = sum(notas) / len(notas)
 
-if media
+aluno["media"] = media
 
+if (media > 9) and (media <= 10):
+    aproveitamento = 'A'
+    conceito = 'APROVADO'
+elif (media > 7.5) and (media <= 9):
+    aproveitamento = 'B'
+    conceito = 'APROVADO'
+elif (media > 6) and (media <= 7.5):
+    aproveitamento = 'C'
+    conceito = 'APROVADO'
+elif (media > 4) and (media <= 6):
+    aproveitamento = 'D'
+    conceito = 'REPROVADO'
+else:
+    aproveitamento = 'E'
+    conceito = 'REPROVADO'
 
-print(f"{sum(notas)} / {len(notas)}")
-print(sum(notas) / len(notas))
+aluno["aproveitamento"] = aproveitamento
+aluno["conceito"] = conceito
+
+print("------------------------------------------")
+for enum, nota in enumerate(aluno['notas'], 1):
+    print(f"{enum}ª Nota: {nota}")
+
+print(f"Media: {aluno['media']}")
+print(f"Aproveitamento: {aluno['aproveitamento']}")
+print(f"Conceito: {aluno['conceito']}")
+print("------------------------------------------")

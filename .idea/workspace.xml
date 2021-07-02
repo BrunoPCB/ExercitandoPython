@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ebab5d9-da79-455a-86b5-57a91193f7f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 - Estruturas de Decisão/EstruturasDeDecisao" beforeDir="false" afterPath="$PROJECT_DIR$/2 - Estruturas de Decisão/EstruturasDeDecisao" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,7 @@
       <recent name="C:\Users\mar_c\3D Objects\Personal\Python_GitHub\ExercitandoPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercicio 11">
+  <component name="RunManager" selected="Python.Exercicio 13">
     <configuration name="Exercicio 10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio 8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio 13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercicio 8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercicio 13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio 9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercício 12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercicio 9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio 13" />
+        <item itemvalue="Python.Exercício 12" />
         <item itemvalue="Python.Exercicio 11" />
         <item itemvalue="Python.Exercicio 10" />
         <item itemvalue="Python.VerificaTipoDados" />
-        <item itemvalue="Python.Exercicio 9" />
-        <item itemvalue="Python.Exercicio 8" />
       </list>
     </recent_temporary>
   </component>

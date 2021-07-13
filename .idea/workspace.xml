@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ebab5d9-da79-455a-86b5-57a91193f7f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercicio 12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +85,8 @@
       <recent name="C:\Users\mar_c\3D Objects\Personal\Python_GitHub\ExercitandoPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercício 22">
-    <configuration name="Exercicio 18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Exercício 27">
+    <configuration name="Exercício 23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercicio 18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio 19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercício 24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercicio 19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio 20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercício 25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercicio 20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio 21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercício 26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercicio 21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercício 22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercício 27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 22.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercício 22" />
-        <item itemvalue="Python.Exercicio 21" />
-        <item itemvalue="Python.Exercicio 20" />
-        <item itemvalue="Python.Exercicio 19" />
-        <item itemvalue="Python.Exercicio 18" />
+        <item itemvalue="Python.Exercício 27" />
+        <item itemvalue="Python.Exercício 26" />
+        <item itemvalue="Python.Exercício 25" />
+        <item itemvalue="Python.Exercício 24" />
+        <item itemvalue="Python.Exercício 23" />
       </list>
     </recent_temporary>
   </component>

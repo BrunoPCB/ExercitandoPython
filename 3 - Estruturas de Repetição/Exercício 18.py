@@ -19,7 +19,6 @@ try:
     if len(numeros) > 0:
         numeros.sort()
 
-        print(numeros)
 
         print("O menor valor: ", numeros[0])
         print("O maior valor: ", numeros[len(numeros)-1])

@@ -23,4 +23,4 @@ except Exception as e:
 if primo:
     print(f"O número {numero} é um número PRIMO.")
 else:
-    print(f"O número {numero} é um número NÃO é primo.")
+    print(f"O número {numero} NÃO é um número PRIMO.")

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebab5d9-da79-455a-86b5-57a91193f7f9" name="Default Changelist" comment="">
+    <list default="true" id="2ebab5d9-da79-455a-86b5-57a91193f7f9" name="Default Changelist" comment="Adicionando 5 novos exercícios concluídos">
+      <change afterPath="$PROJECT_DIR$/3 - Estruturas de Repetição/Exercício 27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 - Estruturas de Repetição/Exercício 28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 - Estruturas de Repetição/Exercício 29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 - Estruturas de Repetição/Exercício 30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 - Estruturas de Repetição/Exercício 31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ExercitandoPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ExercitandoPython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BrunoPCB&quot;
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -27,6 +42,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BrunoPCB/ExercitandoPython.git&quot;,
+    &quot;accountId&quot;: &quot;efd514b2-236c-4f4e-a0a1-cf3f3b24850e&quot;
+  }
+}</component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -39,6 +60,9 @@
       </list>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="675" />
     <option name="y" value="-8" />
@@ -74,31 +98,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Exercício 25 (1).executor": "Run",
+    "Python.Exercício 26 (1).executor": "Run",
+    "Python.Exercício 27 (1).executor": "Run",
+    "Python.Exercício 27.executor": "Run",
+    "Python.Exercício 28.executor": "Run",
+    "Python.Exercício 29.executor": "Run",
+    "Python.Exercício 30.executor": "Run",
+    "Python.Exercício 31.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mar_c\3D Objects\Personal\Python_GitHub\ExercitandoPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercício 27">
-    <configuration name="Exercício 23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Exercício 31">
+    <configuration name="Exercício 27 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 - Estruturas de Decisão" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Estruturas de Repetição" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Estruturas de Repetição/Exercício 27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,19 +141,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercício 24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercício 28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 - Estruturas de Decisão" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Estruturas de Repetição" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 24.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Estruturas de Repetição/Exercício 28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,19 +163,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercício 25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercício 29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 - Estruturas de Decisão" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Estruturas de Repetição" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Estruturas de Repetição/Exercício 29.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,19 +185,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercício 26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercício 30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 - Estruturas de Decisão" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Estruturas de Repetição" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 26.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Estruturas de Repetição/Exercício 30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,19 +207,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercício 27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercício 31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExercitandoPython" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 - Estruturas de Decisão" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Estruturas de Repetição" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Estruturas de Decisão/Exercício 27.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Estruturas de Repetição/Exercício 31.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,13 +231,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercício 27" />
-        <item itemvalue="Python.Exercício 26" />
-        <item itemvalue="Python.Exercício 25" />
-        <item itemvalue="Python.Exercício 24" />
-        <item itemvalue="Python.Exercício 23" />
+        <item itemvalue="Python.Exercício 31" />
+        <item itemvalue="Python.Exercício 30" />
+        <item itemvalue="Python.Exercício 29" />
+        <item itemvalue="Python.Exercício 28" />
+        <item itemvalue="Python.Exercício 27 (1)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -213,6 +258,15 @@
       <option name="presentableId" value="Default" />
       <updated>1621297158188</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adicionando 2 novos exercícios concluídos">
+      <option name="closed" value="true" />
+      <created>1728613922828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728613922828</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -247,7 +301,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionando 2 novos exercícios concluídos" />
+    <MESSAGE value="Adicionando 5 novos exercícios concluídos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando 5 novos exercícios concluídos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/2 - Estruturas de Decisão/Exercicio 1.py">

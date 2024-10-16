@@ -4,10 +4,13 @@
      ele é ou não um número primo.
 """
 numero = int(input('Informe um número: '))
-eh_primo = True
+eh_primo = False
+quantidade_numeros_divisiveis = 0
 
-for num in range(numero, 1, -1):
-    if not num in [1, numero]:
-        eh_primo = (numero % num != 0)
+for num in range(numero, 0, -1):
+    if numero % num == 0:
+        quantidade_numeros_divisiveis += 1
 
-print(f'O número {numero}{' NÃO' if not eh_primo else ''} é primo')
+eh_primo = (quantidade_numeros_divisiveis == 2)
+
+print(f'O número {numero}{" NÃO" if not eh_primo else ""} é primo')

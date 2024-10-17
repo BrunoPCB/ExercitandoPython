@@ -37,3 +37,5 @@ resultado = {
     "alto":alturas[-1],
     "baixo":alturas[0],
 }
+
+print(resultado)
